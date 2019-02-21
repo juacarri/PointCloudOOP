@@ -1,4 +1,4 @@
-PointCloudOOP is a software to obtain object statistics (.CSV file) of a point cloud (with .LAS or .LAZ format) using parcels stored into a shapefile.
+PointCloudObject-OrientedProgramming is a software to obtain object statistics (.CSV file) of a point cloud (with .LAS or .LAZ format) using polygon features of a shapefile.
 
 ### :rocket: Get Started ###
 
