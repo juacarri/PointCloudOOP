@@ -5,7 +5,7 @@ http://cgat.webs.upv.es/
 ### :rocket: Get Started ###
 
 1) Download or copy the repository.
-2) Execute the python code and select the directory of results, the point cloud and the shapefile. 
+2) Execute the PointCloudOOP.exe file and select the directory of results, the point cloud and the shapefile. 
 3) The last step is to introduce the distance of analysis in meters.
 
 To test the software there are 2 files in the folder "example", a shapefile and a LAS file.
