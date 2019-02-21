@@ -1,7 +1,5 @@
 PointCloudOOP is a software to obtain object statistics (.CSV file) of a point cloud (with .LAS or .LAZ format) using parcels stored into a shapefile.
 
-http://cgat.webs.upv.es/
-
 ### :rocket: Get Started ###
 
 1) Download or copy the repository.
