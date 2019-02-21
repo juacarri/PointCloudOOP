@@ -7,7 +7,8 @@ http://cgat.webs.upv.es/
 1) Install Python 3.7 
 2) Install the 3rdParties [FusionLDV](http://forsys.cfr.washington.edu/Software/FUSION/fusionlatest.exe) and [LAStools](http://lastools.org/download/LAStools.zip) on its routes. 
 3) Download or copy the repository.
-Finally, execute the python code and select the directory of results, the point cloud and the shapefile.
+Finally, execute the python code and select the directory of results, the point cloud and the shapefile. The last step is to introduce the distance of analysis in meters.
+To test the software there are 2 files in the folder "example", a shapefile and a LAS file.
 
 Have questions?  Ask them on the [issues](https://github.com/juacarri/PointCloudOOP/issues).
 
