@@ -4,9 +4,10 @@ http://cgat.webs.upv.es/
 
 ### :rocket: Get Started ###
 
-1) Install the 3rdParties [FusionLDV](http://forsys.cfr.washington.edu/Software/FUSION/fusionlatest.exe) and [LAStools](http://lastools.org/download/LAStools.zip) on its routes. 
-2) Download or copy the repository.
-Finally, execute the python code and select the directory of results, the point cloud and the shapefile. The last step is to introduce the distance of analysis in meters.
+1) Download or copy the repository.
+2) Execute the python code and select the directory of results, the point cloud and the shapefile. 
+3) The last step is to introduce the distance of analysis in meters.
+
 To test the software there are 2 files in the folder "example", a shapefile and a LAS file.
 
 Have questions?  Ask them on the [issues](https://github.com/juacarri/PointCloudOOP/issues).
@@ -18,4 +19,6 @@ Our mission is to characterize the world around us.
 ### :green_book: License ###
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Read 3rdParties licenses before use (Please license from martin.isenburg@rapidlasso.com to use lastool commercially.)
 
