@@ -1,4 +1,4 @@
-PointCloudOOP is a Python software to obtain object statistics (.CSV file) of a point cloud (with .LAS or .LAZ format) using parcel stored into a shapefile.
+PointCloudOOP is a software to obtain object statistics (.CSV file) of a point cloud (with .LAS or .LAZ format) using parcels stored into a shapefile.
 
 http://cgat.webs.upv.es/
 
