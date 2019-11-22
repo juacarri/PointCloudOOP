@@ -2,7 +2,7 @@ PointCloudObject-OrientedProgramming is a software to obtain object statistics (
 
 ### :rocket: Get Started ###
 
-1) Download or copy the repository.
+1) Download or copy the repository in C:/
 2) Execute the PointCloudOOP.exe file and select the directory of results, the point cloud and the shapefile. 
 3) The last step is to introduce the distance of analysis in meters.
 
